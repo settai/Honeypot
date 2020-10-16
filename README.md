@@ -22,7 +22,7 @@ https://github.com/settai/Honeypot.git
 
 ### 2. Running or modifying this project
 
-*Include the jnetpcap library on the class path*
+*Include the jnetpcap library on the classpath*
 
 ```
 cd src\honeypot
